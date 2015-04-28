@@ -1,0 +1,8 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"email.field.placeholder" = "Email";
+"password.field.placeholder" = "Password";
+"confirm.field.placeholder" = "Confirm Password";
+"login.button.title" = "Login";
